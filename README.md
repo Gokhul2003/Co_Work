@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project..
 
-CoWork is a collaborative online whiteboard platform that enables teams to work together and brainstorm ideas in real-time. You can use Miro to create diagrams, mind maps, flowcharts etc...
+CoWork is a collaborative online whiteboard platform that enables teams to work together and brainstorm ideas in real-time. You can use CoWork to create diagrams, mind maps, flowcharts etc...
 
 ###### Getting Started
 
