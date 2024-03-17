@@ -8,13 +8,14 @@ CoWork is a collaborative online whiteboard platform that enables teams to work 
 
 -->Do all the configuration regarding clerk and convex deployment ("npx convex dev")
 
--->second add all the api's(environment variable):
---->
+-->second add all the api's(environment variable):-
+
 CONVEX_DEPLOYMENT=
 NEXT_PUBLIC_CONVEX_URL=
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
 CLERK_SECRET_KEY=
 LIVEBLOCKS_SECRET_KEY=
+
 
 Then run the development server:
 --->
