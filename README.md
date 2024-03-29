@@ -1,35 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project..
 
-CoWork is a collaborative online whiteboard platform that enables teams to work together and brainstorm ideas in real-time. You can use CoWork to create diagrams, mind maps, flowcharts etc...
+# CoWork Marketplace
+This  is a collaborative platform where users or and organization can collaborate and work on a single document.The platform allows users to create and manipulate digital sticky notes, drawings, diagrams etc..
+## Environment Variables
 
-###### Getting Started
+To run this project, you will need to add the following environment variables to your .env file
 
--->First install all the packages by "npm i" command ..
+`CONVEX_DEPLOYMENT = ""`
 
--->Do all the configuration regarding clerk and convex deployment ("npx convex dev")
+`NEXT_PUBLIC_CONVEX_URL = ""`
 
--->second add all the api's(environment variable):-
+`NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY = ""`
 
-CONVEX_DEPLOYMENT=
-NEXT_PUBLIC_CONVEX_URL=
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
-LIVEBLOCKS_SECRET_KEY=
+`CLERK_SECRET_KEY = ""`
+
+`LIVEBLOCKS_SECRET_KEY = ""`
 
 
-Then run the development server:
---->
+## Installation
+
+Install my-project with npm and do all the configuration.
+
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+  npm convex dev
+  npm run dev
 ```
-
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+    
+## Acknowledgements
+
+ - [Awesome README](https://readme.so/editor)
 
 
+
+## Authors
+
+- [@Gokhul2003](https://github.com/Gokhul2003)
 
