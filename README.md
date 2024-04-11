@@ -26,12 +26,6 @@ Install my-project with npm and do all the configuration.
 ```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
     
-## Acknowledgements
-
- - [Awesome README](https://readme.so/editor)
-
-
-
 ## Authors
 
 - [@Gokhul2003](https://github.com/Gokhul2003)
