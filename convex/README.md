@@ -4,7 +4,6 @@ Write your Convex functions here. See
 https://docs.convex.dev/using/writing-convex-functions for more.
 
 A query function that takes two arguments looks like:
-
 ```ts
 // functions.js
 import { query } from "./_generated/server";
