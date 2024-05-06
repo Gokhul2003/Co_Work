@@ -5,7 +5,7 @@ export default defineSchema({
   boards: defineTable({
     title: v.string(),
     orgId: v.string(),
-    authorId: v.string(),
+    authorId:v.optional(v.string()),
     authorName: v.string(),
     imageUrl: v.string(),
   })
