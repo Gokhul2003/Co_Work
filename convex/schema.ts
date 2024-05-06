@@ -5,8 +5,8 @@ export default defineSchema({
   boards: defineTable({
     title: v.string(),
     orgId: v.string(),
-    authorId:v.optional(v.string()),
-    authorName: v.string(),
+    authorId:v.string(),
+    authorName:v.optional(v.string()),
     imageUrl: v.string(),
   })
     .index("by_org", ["orgId"])
